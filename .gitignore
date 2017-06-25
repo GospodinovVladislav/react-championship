@@ -52,3 +52,9 @@ Temporary Items
 /.gitattributes
 /.gitignore
 /.project
+/src/frontend/node_modules
+/championshipdb.tmp
+/championshipdb.lck
+/championshipdb.log
+/championshipdb.properties
+/championshipdb.script
