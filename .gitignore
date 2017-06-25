@@ -58,3 +58,4 @@ Temporary Items
 /championshipdb.log
 /championshipdb.properties
 /championshipdb.script
+/src/main/frontend/node_modules
